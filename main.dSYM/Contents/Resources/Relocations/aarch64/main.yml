@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/deo_daniel/Documents/Untitled_Game/main'
+relocations:     []
+...

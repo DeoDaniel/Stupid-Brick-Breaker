@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/deo_daniel/Documents/Untitled_Game/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -g -arch arm64 -o CMakeFiles/Untitled_Game.dir/main.cpp.o -c /Users/deo_daniel/Documents/Untitled_Game/main.cpp",
+  "file": "/Users/deo_daniel/Documents/Untitled_Game/main.cpp",
+  "output": "CMakeFiles/Untitled_Game.dir/main.cpp.o"
+}
+]

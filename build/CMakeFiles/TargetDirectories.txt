@@ -1,0 +1,3 @@
+/Users/deo_daniel/Documents/Untitled_Game/build/CMakeFiles/Untitled_Game.dir
+/Users/deo_daniel/Documents/Untitled_Game/build/CMakeFiles/edit_cache.dir
+/Users/deo_daniel/Documents/Untitled_Game/build/CMakeFiles/rebuild_cache.dir
